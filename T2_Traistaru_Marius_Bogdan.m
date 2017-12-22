@@ -46,7 +46,7 @@ xlabel('Frecventa [Hz]');
 ylabel('|X|');
 
 %
-% Seriile Fourier  ne spunca orice semnal periodic poate fi aproximat
+% Seriile Fourier  ne spune ca orice semnal periodic poate fi aproximat
 % printr-o suma infinita de sin si cos.
 % Coeficienti lui si sin si cos reprezinta spectrul de amplitudini al
 % semnalului.
